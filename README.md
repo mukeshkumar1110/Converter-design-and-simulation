@@ -100,16 +100,22 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 ![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
 
 # Output
-![image].(![Screenshot 2024-03-14 161704](https://github.com/mukeshkumar1110/Converter-design-and-simulation/assets/152305679/bf863de6-7cdc-4b37-802c-29f73f7e43a8)
-![image].(![Screenshot 2024-03-14 161728](https://github.com/mukeshkumar1110/Converter-design-and-simulation/assets/152305679/4f0aabce-c413-4495-9e5c-83cf7a6b1941)
+## AC to DC Converter:
+![image](https://github.com/user-attachments/assets/e9c774f5-0ebb-41da-961a-69c656bc00ad)
+![image](https://github.com/user-attachments/assets/ec68410f-6055-4c1e-9610-3a792619d8eb)
 
+## DC to DC voltage regulator
+![image](https://github.com/user-attachments/assets/3941e689-0831-4ba8-9c68-9432684e4dd7)
 
-
-
-
-
-# Result 
-
+# Result
 Thus the AC to DC converter and DC voltage regulator are designed and simulated using Proteus.
+
+
+
+
+
+
+
+
 
 
